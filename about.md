@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#Hi I'm Kyle
+# Hi I'm Kyle
 
 Lighting has been my main passion as long as I can remember. My first experience with it was in grade school, and I've been trying to work it into my life ever since. 
 
